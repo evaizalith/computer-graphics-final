@@ -1,6 +1,8 @@
-# computer-graphics-assignment-4
+# Computer Graphics Final
 
-Eva Powlison CG Assignment 4
+This was my final OpenGL project for my Computer Graphics class.
+
+![screenshot](https://github.com/evaizalith/computer-graphics-final/assets/53011549/746820b7-e540-4a7b-a2f0-35ce50a190b9)
 
 ## Compiling
 
@@ -8,7 +10,3 @@ This program can be compiled using Make. The command `make run` will create a /b
 
 It can be manually compiled with the command `clang src/*.c -lGL -lglut -lGLU -lm -o build/graphic`. 
 
-## Cool things in this project
-
-- F8 to enable Gundam Mode
-- I added a skybox that makes the scene look like it's happening at night under the stars
